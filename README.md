@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/tokich6/tokich6/readme_header.png "Header")](https://tonika.tech)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/tokich6/tokich6/readme_header.jpg "Header")](https://tonika.tech)
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
