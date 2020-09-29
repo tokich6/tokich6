@@ -1,4 +1,5 @@
-### Hi there 👋
+
+# Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **tokich6/tokich6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Header](https://raw.githubusercontent.com/tokich6/tokich6/master/readme_header.jpg "Header")](https://tonika.tech)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 @@ -68,4 +70,4 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
