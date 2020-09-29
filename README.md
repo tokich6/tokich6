@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 [![Header](https://raw.githubusercontent.com/tokich6/tokich6/master/readme_header.jpg "Header")](https://tonika.tech)
 
 
-@@ -68,4 +70,4 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
