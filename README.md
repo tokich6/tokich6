@@ -1,6 +1,6 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
-### I'm a web developer based in Miami, Florida. To view some of my projects click below or  [![LinkedIn][2.2]][2] to connect 😎<!-- Icons -->
+### I'm Tonika, a web developer based in Miami 😎 To view some of my projects click below or connect with me here [![LinkedIn][2.2]][2] 🙂
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
