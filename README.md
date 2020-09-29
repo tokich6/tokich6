@@ -4,6 +4,8 @@
 
 ![](https://img.shields.io/endpoint?url=https://www.linkedin.com/in/tonika-valderrama/&style=social&logo=appveyor&logoColor=white&color=brightgreen)
 
+![](https://img.shields.io/endpoint?url=https://www.linkedin.com/in/tonika-valderrama)
+
 ![](https://img.shields.io/badge/linkedin-connect-brightgreen?link=https://www.linkedin.com/in/tonika-valderrama)
 
 
