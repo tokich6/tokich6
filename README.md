@@ -2,9 +2,10 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 ### I'm Tonika, a web developer based in Miami 😎 To view some of my projects click below or connect with me on  [![LinkedIn][2.2]][2] 🙂
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/endpoint?url=https://www.linkedin.com/in/tonika-valderrama/&style=social&logo=appveyor&logoColor=white&color=brightgreen)
 
-https://img.shields.io/endpoint?url=https://www.linkedin.com/in/tonika-valderrama/&style=social&logo=appveyor>
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=brightgreen)
+
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
