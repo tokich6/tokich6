@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/endpoint?url=https://www.linkedin.com/in/tonika-valderrama/&style=social&logo=appveyor&logoColor=white&color=brightgreen)
 
-![](https://img.shields.io/badge/linkedin-connect-brightgreen)
+![](https://img.shields.io/badge/linkedin-connect-brightgreen?link=https://www.linkedin.com/in/tonika-valderrama)
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
