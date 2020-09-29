@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://unsplash.com/photos/oqStl2L5oxI)](https://tonika.tech/)
+[![Header](https://raw.githubusercontent.com/tokich6/tokich6/master/wave.gif)](https://tonika.tech/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 @@ -68,4 +70,4 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
