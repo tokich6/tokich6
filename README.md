@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokich6&theme=cobalt&show_icons=true&layout=compact" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=tokich6&theme=cobalt&show_icons=true&layout=compact" />
