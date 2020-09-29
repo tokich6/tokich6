@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokich6&theme=cobalt&show_icons=true" />
