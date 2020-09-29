@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a couple of side projects
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2].
+Where to find me
+
+ [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
