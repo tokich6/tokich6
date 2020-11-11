@@ -1,6 +1,6 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
-### I'm Tonika, a web developer based in Miami. For collobaration or just to get to know me you can click below or connect with me on  [![LinkedIn][2.2]][2] 🙂
+### I'm Tonika, a web developer based in Miami. For collaboration or just to get to know me you can click below or connect with me on  [![LinkedIn][2.2]][2] 🙂
 
 <!--
 ![](https://img.shields.io/endpoint?url=https://www.linkedin.com/in/tonika-valderrama)
